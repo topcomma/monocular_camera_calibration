@@ -20,8 +20,7 @@ const static int NUM_COL_CORNERS = 11;
 const static int CHESS_SQUARE_WIDTH = 3;  //cm
 const static int CHESS_SQUARE_HEIGTH = 3;  //cm
 
-const static char calibration_images_path[] = "./caliberation_data.txt";
-const static char output_calibrated_detail_result_path[] = "./caliberation_result.txt";
+const static char calibration_images_path[] = "./caliberation_data.txt";const static char output_calibrated_detail_result_path[] = "./caliberation_result.txt";
 
 int main()   
 {  
